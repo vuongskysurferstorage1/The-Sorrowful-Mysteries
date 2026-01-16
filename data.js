@@ -32,7 +32,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 0.8159711529622591,
+          "pitch": 0.16363445477363747,
+          "rotation": 0,
+          "target": "1-2-the-scourging-at-the-pillar"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": 0.7673077908718007,
