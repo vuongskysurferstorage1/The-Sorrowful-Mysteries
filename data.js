@@ -32,73 +32,18 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [
-        {
-          "yaw": 0.7620877005955471,
-          "pitch": 0.20464767970092979,
-          "rotation": 0,
-          "target": "2-2-the-scourging-at-the-pillar"
-        },
-        {
-          "yaw": 0.40301458552320213,
-          "pitch": 0.10784171121308184,
-          "rotation": 0,
-          "target": "1-the-agony-in-the-garden---copy"
-        }
-      ],
+      "linkHotspots": [],
       "infoHotspots": [
         {
-          "yaw": 0.7122755380944525,
-          "pitch": -0.022680526569820003,
-          "title": "test",
-          "text": "test"
+          "yaw": 0.7673077908718007,
+          "pitch": -0.06791063844870138,
+          "title": "Title",
+          "text": "Text"
         }
       ]
     },
     {
-      "id": "1-the-agony-in-the-garden---copy",
-      "name": "The Agony in the Garden - Copy",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        },
-        {
-          "tileSize": 512,
-          "size": 4096
-        }
-      ],
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 0.37256950433723546,
-          "pitch": 0.07226227572406074,
-          "rotation": 0,
-          "target": "0-1-the-agony-in-the-garden"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "2-2-the-scourging-at-the-pillar",
+      "id": "1-2-the-scourging-at-the-pillar",
       "name": "2. The Scourging at the Pillar",
       "levels": [
         {
@@ -131,29 +76,29 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.03732539266628443,
-          "pitch": -0.10001596075944796,
+          "yaw": 0.033296389592090136,
+          "pitch": -0.11489771403726756,
           "rotation": 0,
-          "target": "3-3-crowning-with-thorns"
+          "target": "2-3-crowning-with-thorns"
         },
         {
-          "yaw": -2.352292590955379,
-          "pitch": -0.053396114413834184,
+          "yaw": -2.35895181494695,
+          "pitch": -0.10103915462782886,
           "rotation": 0,
           "target": "0-1-the-agony-in-the-garden"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.01273968221872579,
-          "pitch": -0.42824653428044357,
-          "title": "test",
-          "text": "test"
+          "yaw": -0.019879467823962216,
+          "pitch": -0.3777665840187243,
+          "title": "Title",
+          "text": "Text"
         }
       ]
     },
     {
-      "id": "3-3-crowning-with-thorns",
+      "id": "2-3-crowning-with-thorns",
       "name": "3. Crowning with Thorns",
       "levels": [
         {
@@ -186,29 +131,29 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.7806589727883413,
-          "pitch": -0.07899997168400219,
+          "yaw": -0.7469860510475037,
+          "pitch": 0.004887940589071604,
           "rotation": 0,
-          "target": "4-4-the-carrying-of-the-cross"
+          "target": "3-4-the-carrying-of-the-cross"
         },
         {
-          "yaw": 3.1209863822329336,
-          "pitch": -0.12828587764548516,
+          "yaw": -3.1375585321533084,
+          "pitch": -0.10265101022275047,
           "rotation": 0,
-          "target": "2-2-the-scourging-at-the-pillar"
+          "target": "1-2-the-scourging-at-the-pillar"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.8007732690984959,
-          "pitch": -0.4699202557136992,
-          "title": "test",
-          "text": "test"
+          "yaw": -0.7715165002859088,
+          "pitch": -0.2086324739733545,
+          "title": "Title",
+          "text": "Text"
         }
       ]
     },
     {
-      "id": "4-4-the-carrying-of-the-cross",
+      "id": "3-4-the-carrying-of-the-cross",
       "name": "4. The Carrying of the Cross",
       "levels": [
         {
@@ -241,30 +186,30 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.9907525571087445,
-          "pitch": -0.43353448405620476,
+          "yaw": 0.7081349421989067,
+          "pitch": -0.4208162339532482,
           "rotation": 0,
-          "target": "5-5-the-crucifixion-of-jesus"
+          "target": "4-5-the-crucifixion-of-jesus"
         },
         {
-          "yaw": -1.9497772696554847,
-          "pitch": 0.30493260944028755,
+          "yaw": 3.100161984897351,
+          "pitch": 0.29395046683293025,
           "rotation": 0,
-          "target": "3-3-crowning-with-thorns"
+          "target": "2-3-crowning-with-thorns"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 2.94247417162436,
-          "pitch": -0.6808765671709516,
-          "title": "test",
-          "text": "test"
+          "yaw": 0.6753313773404095,
+          "pitch": -0.6087821712042061,
+          "title": "Title",
+          "text": "Text"
         }
       ]
     },
     {
-      "id": "5-5-the-crucifixion-of-jesus",
-      "name": "5. The Crucifixion of Jesus",
+      "id": "4-5-the-crucifixion-of-jesus",
+      "name": "5 The Crucifixion of Jesus",
       "levels": [
         {
           "tileSize": 256,
@@ -296,17 +241,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.8831040737467255,
-          "pitch": 0.37172238316890116,
+          "yaw": -1.8945447169091203,
+          "pitch": 0.36687116965749134,
           "rotation": 0,
-          "target": "4-4-the-carrying-of-the-cross"
+          "target": "3-4-the-carrying-of-the-cross"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.6673373618952212,
-          "pitch": -0.658001776742676,
-          "title": "test",
+          "yaw": 0.6319278821126435,
+          "pitch": -0.592874731910225,
+          "title": "Title",
           "text": "Text"
         }
       ]
